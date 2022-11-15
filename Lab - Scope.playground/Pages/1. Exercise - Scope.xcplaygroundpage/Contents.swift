@@ -46,6 +46,7 @@ struct Car
     init(make: String, model: String, year: Int){
         self.make = make
         self.model = model
+        self.year = year
     }
 }
 
